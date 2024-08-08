@@ -1,0 +1,21 @@
+{
+  "name": "cors_project",
+  "version": "1.0.0",
+  "description": "The project is building to understand cors policy and how to tackle in frontend and backend",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "npm"
+  ],
+  "author": "Krishnendu Roy",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
