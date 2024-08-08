@@ -1,0 +1,2 @@
+# Full Stack Application [React.js, Node.js, Express.js]
+The web app built to create custom REST api using Express.js and handling in React.js based frontend using HTTP library "axios". The production based standard practices are performed in this mini project by using .env file in the backend, consuming API data asynchronously.
